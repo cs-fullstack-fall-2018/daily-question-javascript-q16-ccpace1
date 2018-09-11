@@ -47,3 +47,5 @@ Executed the finally block
 
 4)
 Could not call the function to log the info!
+
+answer is 3
